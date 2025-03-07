@@ -6,7 +6,11 @@
 
 ## 项目地址
 
-[https://github.com/leihuidi/Friendship/](https://github.com/leihuidi/Friendship-Fireworks/)
+[https://github.com/leihuidi/Friendship/](https://github.com/leihuidi/Friendship/)
+
+## 效果演示
+
+[friend.leihuidi.cn](friend.leihuidi.cn)
 
 ## 简介
 
@@ -15,12 +19,15 @@
 *   **主页 (index.html):**  展示网站的简介和导航。
 *   **友谊见证页 (fireworks.html):**  核心页面，通过精美的烟花特效和友谊宣言，见证和庆祝友谊。
 
+## 文件结构
+
+
 ## 使用方法
 
 1.  **克隆仓库:**
 
     ```bash
-    git clone https://github.com/leihuidi/Friendship-Fireworks.git
+    git clone https://github.com/leihuidi/Friendship.git
     ```
 
 2.  **打开 `index.html` 或 `fireworks.html`:**  直接在浏览器中打开 `index.html` 或 `fireworks.html` 文件即可体验。
