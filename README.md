@@ -15,18 +15,6 @@
 *   **主页 (index.html):**  展示网站的简介和导航。
 *   **友谊见证页 (fireworks.html):**  核心页面，通过精美的烟花特效和友谊宣言，见证和庆祝友谊。
 
-## 文件结构
-
-Friendship/
-├── index.html          # 主页
-├── fireworks.html      # 友谊见证页
-├── css/
-│   └── style.css         # 样式文件
-├── js/
-│   └──fireworks.js      # 烟花特效 JavaScript 文件
-│      script.js         # 页面交互 JavaScript 文件
-└── README.md           # 本文件
-
 ## 使用方法
 
 1.  **克隆仓库:**
