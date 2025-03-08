@@ -27,7 +27,7 @@
 1.  **克隆仓库:**
 
     ```bash
-    git clone https://github.com/leihuidi/Friendship.git
+    git clone https://github.com/leihuidi/Friendship-Fireworks.git
     ```
 
 2.  **打开 `index.html` 或 `fireworks.html`:**  直接在浏览器中打开 `index.html` 或 `fireworks.html` 文件即可体验。
