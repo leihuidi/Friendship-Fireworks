@@ -53,8 +53,9 @@
 
 *   Email: [leihuidi@gmail.com](mailto:leihuudi@gmail.com)
 
-## Q&A
-改哪里能把背景换成粉色？改哪里能把字换成我女朋友的名字？
-*   答：fireworks.js
-首页文字在哪改？
-*   答：script.js
+### Q&A
+
+**Q: 改哪里能把背景换成粉色？改哪里能把字换成我女朋友的名字？**
+
+*   **答：** 请修改 `style.css` 中的背景颜色设置。
+*   **答：** 请修改 `script.js` (或者你代码里的 `fireworks.html` 里的 JS 部分)，找到 `const text = "..."` 那一行，把里面的字换成你想要的。
