@@ -53,6 +53,8 @@
 
 *   Email: [leihuidi@gmail.com](mailto:leihuudi@gmail.com)
 
-## 致谢
-
-感谢所有为这个项目做出贡献的人！ 感谢开源社区！
+## Q&A
+改哪里能把背景换成粉色？改哪里能把字换成我女朋友的名字？
+*   答：fireworks.js
+首页文字在哪改？
+*   答：script.js
