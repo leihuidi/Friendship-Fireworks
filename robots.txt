@@ -1,2 +1,13 @@
+# ---------------------------------------------------
+# To the human reading this:
+# This ban was established when I was in Grade 9.
+# Reason: Retaliation for an unjustified account ban.
+# (And yes, I'm still holding a grudge.)
+# ---------------------------------------------------
+# 抖音！我恨你！
+User-agent: Bytespider
+Disallow: /
+User-agent: ToutiaoSpider
+Disallow: /
 User-agent: *
-Allow: /
+Disallow:
