@@ -107,7 +107,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     // Typing Effect
-    const text = "我们的友谊像烟花一样绚烂\n永远闪耀\n感谢你一路相伴\n我的挚友\n(这下面一般都是一些要求你转发)\n（转多少人考多少分之类的）\n（但我心地善良）\n（我不写）"; // 你想展示的文字
+    const text = "我们的友谊像烟花一样绚烂\n永远闪耀\n感谢你一路相伴\n我的挚友"; // 你想展示的文字
     let textIndex = 0;
 
     function typeText() {
