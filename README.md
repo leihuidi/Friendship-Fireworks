@@ -40,13 +40,7 @@
 
 ## 贡献
 
-欢迎任何形式的贡献！  你可以通过以下方式贡献代码：
-
-1.  **Fork 仓库**
-2.  **创建你的 Feature 分支** (`git checkout -b feature/AmazingFeature`)
-3.  **提交你的修改** (`git commit -m 'Add some AmazingFeature'`)
-4.  **推送到分支** (`git push origin feature/AmazingFeature`)
-5.  **提交 Pull Request**
+欢迎任何形式的贡献！ 
 
 我们也欢迎你提交 issue 报告 bug 或提出改进建议。
 
@@ -58,7 +52,7 @@
 
 如果你有任何问题或建议，请通过以下方式联系我：
 
-*   Email: [github@yiran.us](mailto:github@yiran.us)
+*   Email: [leihuidi@gmail.com](mailto:leihuudi@gmail.com)
 
 ## 致谢
 
