@@ -56,7 +56,7 @@
 
 如果你有任何问题或建议，请通过以下方式联系我：
 
-*   Email: [leihuidi@gmail.com](mailto:leihudi@gmail.com)
+*   Email: [leihuidi@gmail.com](mailto:leihuidi@gmail.com)
 
 
 ## 常见问题
