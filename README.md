@@ -45,8 +45,7 @@
 
 ## 许可证
 
-本项目使用 [GPL v3](https://www.gnu.org/licenses/gpl-3.0) 许可证。  详情请查看 [LICENSE](LICENSE) 文件 (如果存在，否则意味着LICENSE信息包含在了本README中，或者需要您自行创建)。
-
+本项目使用 [GPL v3](https://www.gnu.org/licenses/gpl-3.0) 许可证。  详情请查看 [LICENSE](LICENSE) 文件
 ## 联系方式
 
 如果你有任何问题或建议，请通过以下方式联系我：
