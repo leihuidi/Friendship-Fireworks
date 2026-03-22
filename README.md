@@ -10,7 +10,7 @@
 
 ## 效果演示
 
-[friend.leihuidi.cn](https://friend.leihuidi.cn/)
+[friend.leihuidi.top](https://friend.leihuidi.top/)
 
 ## 简介
 
