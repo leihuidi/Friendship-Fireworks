@@ -11,6 +11,7 @@
 ## 效果演示
 
 [friend.leihuidi.top](https://friend.leihuidi.top/)
+备用：[friend.leihuidi.us.kg](https://friend.leihuidi.us.kg/)
 
 ## 简介
 
