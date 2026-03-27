@@ -10,4 +10,4 @@ Disallow: /
 User-agent: ToutiaoSpider
 Disallow: /
 User-agent: *
-Disallow:
+Allow: /
